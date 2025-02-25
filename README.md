@@ -21,13 +21,22 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Planning -  This is the stage where the purpose and scope of the project is being defined. It involves mapping out the basic requirements, what the target audience/market is, what problem the software is designed to offer solutions to, the feasibility of the project. 
-requirement analysis - This stage identifies the final user specification and ensures that the project is both usable by the end users and meets their requirements. 
-design - This is the stage where the project is being designed, built, developed. 
-coding - This entails converting software design into tangible code.
- Testing - This involves tetsing the software for quality assurannce, examining it for bugs and glitches to ensure it's available for optimal use 
+Requirement analysis - This stage identifies the final user specification and ensures that the project is both usable by the end users and meets their requirements. 
+Design - This is the stage where the project is being designed, built, developed. 
+Coding - This entails converting software design into tangible code.
+Testing - This involves tetsing the software for quality assurannce, examining it for bugs and glitches to ensure it's available for optimal use 
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+While the waterfall metholodolgy is rigid, Agile is quite flexible. The agile methodology allows for testing at every iteration stage whereas waterfall only allows for testing twoards the end of the development process. While customers' feedbacks are being incorporated during the deisgn process for the agile methodology and allows for improvement real time, waterfall methodology implies that feedbacks are given at a later stage of the process where it has less effect on the product improvement and as such, makes it diffcult for changes to made to the system. 
+
+Example of Agile methodology: Agile in Software Development for Startups as this allows for intermittent incoproration of customers' feedback and testing at every point of the product development. 
+
+Example of waterfall methodology implementation: 
+
+
+
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
