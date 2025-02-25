@@ -33,22 +33,39 @@ While the waterfall metholodolgy is rigid, Agile is quite flexible. The agile me
 
 Example of Agile methodology: Agile in Software Development for Startups as this allows for intermittent incoproration of customers' feedback and testing at every point of the product development. 
 
-Example of waterfall methodology implementation: 
-
-
-
-
+Example of waterfall methodology implementation: A perfect example of this is buliding construction where a plan has to be set out and followed in that order, the process being a bit rigid and has to be followed through from foundation to roofing stages
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Software Developer - A software developer is resposible for developing, updating and maintaining the sofware
+
+Quality Assurance Engineer is responsible for ensuring that the software developed is proprerly tested for bug and glitches as well ensuring the code runs properly and meet the required standard of the end users. They practically test that the product has full fucntionalities that meet the desired projections. 
+
+Project Manager - Rsponsible for assembling the team as well as ensuring that the project is on schedule, meeting the set deadline and goals withing a specified framework. 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+An IDE is a platform that facilitates the creation and coding of software application providing space for editing, compling etc e.g Visual Studi Code
+A VCS is a platform that enables changes to be amde to given source code e.g. Git
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
+- Rapid Technological advancements forcing developers to keep making changes or upgrades to meet emerging market trends
+  Solution: Adapting to emrging trends and technologies
+- Poor infrastructure could also be a major challenge as this leaves developers handicapped espacially where they lack the required sophisticated tools to produce the best results
+  Solution: Reliance on robust technologies for improved efficiency 
+- Time can also be a major challenge as some tasks could be time intensive as well as tasking, leaving software deveopers with so much to deal in a very short period of time
+  Solution: Adopt the agile methodology 
+- Software security is also a major constraint as developers have to always ensure that the product is prodiucted from hacking, malwares, cyber attacks etc.
+  Solution: Routine checks, bugs fixes, patches to ensure app has the latest securit patch and protection. 
+
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+Unit tetsing: This involves testing each individual component, unit, module, process to ensure it meets the required standard. 
+Integration testing: This is a test carried out to ensure that units, modules, processes, componeents when integrated, or put together, function properly. 
+System testing: This is a test carried out to ensure that the enitire systems functions properly as a whole, single unit 
+Acceptance testing: This test ensure that the products meets the business requirements as well as the user experience requirement 
 
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -56,5 +73,22 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt engineering is a process which involves guidng degenerative AI model to ensure it produces the desired outputs.
+The importance of this includes
+- It helps improves user experience
+- It gives developers more control
+- It increases flexibility
+  
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague prompt: Go to the Bank and submit the file
+
+Improved prompt: Go to Stanbic IBTC Bank at plot 84/86 Gado Nasco Road, Kubwa Abuja and give the deposit instruction to Mr. Joseph, the customer service representative
+
+Clarity: This specfies the excact address of the bank making it easier to locate as well as whom to meet, avoiding a mix up.
+
+Specific details: This helps tailor the search as the specific adress was provided, the excat bank name, the exact staff to meet and his role and ehat exact document is to be submitted.
+
+Concise: This paints a clearer picture of what task is to be completed and how it is to be easily achieved without overly complicating things. 
