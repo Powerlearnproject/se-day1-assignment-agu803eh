@@ -12,8 +12,19 @@ Software engineering is a branch of computer science that is used for developing
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+-The emergence of high-level programming languages like Fortran and COBOL
+-The development of object-oriented programming (OOP)
+-The rise of cloud computing
+
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
+
+Planning -  This is the stage where the purpose and scope of the project is being defined. It involves mapping out the basic requirements, what the target audience/market is, what problem the software is designed to offer solutions to, the feasibility of the project. 
+requirement analysis - This stage identifies the final user specification and ensures that the project is both usable by the end users and meets their requirements. 
+design - This is the stage where the project is being designed, built, developed. 
+coding - This entails converting software design into tangible code.
+ Testing - This involves tetsing the software for quality assurannce, examining it for bugs and glitches to ensure it's available for optimal use 
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
